@@ -1,0 +1,1 @@
+Puzzle,numOfPieces:int:2015,type:java.lang.String:medium,time:double:48.0,theme:java.lang.String:painting,isDone:boolean:false,percentageDone:double:1.1294117647058823,leftTime:double:42.5

@@ -1,0 +1,4 @@
+C:\Users\Dani\Desktop\SDJ3\ObjectConvertingDotNet\obj\Debug\netcoreapp2.1\ObjectConvertingDotNet.csprojAssemblyReference.cache
+C:\Users\Dani\Desktop\SDJ3\ObjectConvertingDotNet\obj\Debug\netcoreapp2.1\ObjectConvertingDotNet.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Desktop\SDJ3\ObjectConvertingDotNet\obj\Debug\netcoreapp2.1\ObjectConvertingDotNet.AssemblyInfoInputs.cache
+C:\Users\Dani\Desktop\SDJ3\ObjectConvertingDotNet\obj\Debug\netcoreapp2.1\ObjectConvertingDotNet.AssemblyInfo.cs

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Bank/Bank/src"/>
+	<classpathentry kind="src" path="FirstSpringAttempt/src/main/java"/>
+	<classpathentry kind="src" path="ObjectConverting/src"/>
+	<classpathentry kind="output" path="Bank/Bank/bin"/>
+</classpath>
